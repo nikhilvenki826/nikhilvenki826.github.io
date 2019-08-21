@@ -1,4 +1,4 @@
-# nikhilvenki826.github.io
+# Welcome to my website!
 
 ![My photo](photo.jpg)
 
