@@ -4,4 +4,4 @@
 
 This is a test website.
 
-Access my resume [here](prank.md)
+Access my resume [here](prank.html).

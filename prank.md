@@ -4,4 +4,4 @@
 
 Haha you have been pranked.
 
-Return home [here](README.md).
+Return home [here](README.html).
