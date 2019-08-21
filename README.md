@@ -1,6 +1,6 @@
 # nikhilvenki826.github.io
 
-![Next Level Nikhil](photo.jpg)
+![My photo](photo.jpg)
 
 ## Personal Website
 
