@@ -1,9 +1,13 @@
-# Welcome to my website!
+# Georgia Tech
 
 ![My photo](photo.jpg)
 
 ## Personal Website
 
-This is a test website.
+Hi there! I am a 2nd year MS Aerospace Engineering student at the Georgia Institute of Technology. I'm a graduate researcher at the [Aerospace Systems Design Lab](http://www.asdl.gatech.edu/Research_Areas.html) working on harnessing data-driven insights to interesting and vogue aviation/transportation problems. My main areas of research are in Operations Research, Urban Air Mobility Concepts, and Network Planning.
+
+In my spare time, I enjoy singing (Classical Indian) and do impressions!
+
+Happy to have a conversation at : <nvenkatesh6@gatech.edu>
 
 Access my resume [here](resume.pdf).
