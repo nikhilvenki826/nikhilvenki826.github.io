@@ -8,5 +8,3 @@ Hi there! I am a 2nd year MS Aerospace Engineering student at the Georgia Instit
 
 
 Happy to have a conversation at : <nvenkatesh6@gatech.edu>
-
-Access my resume [here](resume.pdf).
