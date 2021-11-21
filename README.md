@@ -1,6 +1,6 @@
 # Nikhil Venkatesh
 
-![My photo](photo.jpg)
+![My photo](profile_pic.jpg)
 
 ## Personal Website
 
